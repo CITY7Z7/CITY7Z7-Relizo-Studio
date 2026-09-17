@@ -43,8 +43,14 @@ npm run dev
 ```
 
 ---
+
+LOGIN
+
 admin@relizo.app
+
 admin123
+
+---
 
 Other useful scripts:
 - npm run build        # production build

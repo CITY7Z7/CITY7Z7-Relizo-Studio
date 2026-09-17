@@ -19,7 +19,7 @@
 │       └── overview.md     # Обзор архитектуры и стек
 ├── public/                 # Статические ассеты (иконки, манифесты)
 ├── src/
-│   ├── components/         # Компоненты интерфейса (AppLayout, AppSidebar, GanttChart, ui/*)
+│   ├── components/         # Компоненты интерфейса (AppLayout, AppSidebar, SidebarSocials, QuickCommandPalette, GanttChart, ui/*)
 │   ├── data/               # Мок-данные каталога (mockData.ts)
 │   ├── hooks/              # Хуки взаимодействия с данными (useDatabase.ts, use-toast.ts)
 │   ├── integrations/       # Клиенты хранения данных (local/client.ts)

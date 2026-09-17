@@ -9,6 +9,8 @@
 
 - **Версия 1.5.0**:
 
+(2026-09-17)
+
 ✅ Migration complete:
 
 *Runtime*: Web (Node.js)
@@ -32,4 +34,3 @@ This ensures zero native compilation bottlenecks in the containerized cloud envi
 Created metadata.json configuring the application name, description, and required server capabilities.
 - Added .env.example documentation.
 - To connect a persistent cloud database, you can provision Firebase or AI Studio Cloud SQL from the integrations menu.
-

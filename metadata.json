@@ -1,0 +1,6 @@
+{
+  "name": "Relizo",
+  "description": "Music Release Operations App for managing tracks, albums, releases, and distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

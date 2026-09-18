@@ -95,7 +95,7 @@ export function AppSidebar() {
   return (
     <Sidebar collapsible="icon" className="border-r border-sidebar-border bg-sidebar/95 backdrop-blur-sm shadow-studio flex flex-col justify-between">
       {/* Studio Brand Header */}
-      <div className="px-3.5 py-3.5 flex items-center justify-between border-b border-sidebar-border/60 shrink-0">
+      <div className="px-2 py-3.5 flex items-center justify-between border-b border-sidebar-border/60 shrink-0">
         <div className="flex items-center gap-2.5 min-w-0">
           <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center shadow-xs shrink-0 text-primary-foreground font-bold tracking-tighter">
             <Activity className="h-4 w-4" />

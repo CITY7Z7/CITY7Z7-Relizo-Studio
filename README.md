@@ -58,3 +58,5 @@ Other useful scripts:
 - npm test             # run tests (vitest)
 
 Data is stored locally in `data/relizo.sqlite`. The Vite development server provides the local API and file storage on `localhost:8080`; no environment variables or external services are required.
+
+![alt text](image.png)

@@ -59,4 +59,5 @@ Other useful scripts:
 
 Data is stored locally in `data/relizo.sqlite`. The Vite development server provides the local API and file storage on `localhost:8080`; no environment variables or external services are required.
 
-![alt text](image.png)
+
+![...](https://github.com/CITY7Z7/CITY7Z7-Relizo-Studio/blob/main/Polomolok%20Fujifilm%20-%20JR%20Photo%20Lab_Relizo-Studio.webp)
